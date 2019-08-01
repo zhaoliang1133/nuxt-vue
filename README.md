@@ -23,10 +23,11 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 ```
 nuxt.js部署vue应用到服务端过程
- vue.js  nuxt.js  17k 次阅读  ·  读完需要 5 分钟
+
 由于seo的需要，最近将项目移植道nuxt.js下采用ssr渲染
 
 移植完成后，一路顺畅，但是到了要部署到服务器端上时候，还是个头疼的问题，但最终还是顺利完成。
+
 现在记录一下部署中的过程。
 
 注：部署时候过程中，参考了下：https://segmentfault.com/a/11...
